@@ -1,0 +1,8 @@
+/node_modules
+/public/images
+/storage/logs
+.env
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode

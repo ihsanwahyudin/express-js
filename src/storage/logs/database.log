@@ -1,0 +1,172 @@
+
+error [Thu May 05 2022 15:48:36 GMT+0700 (Western Indonesia Time)]  Database disconnected !
+
+error [Thu May 05 2022 15:49:49 GMT+0700 (Western Indonesia Time)]  Database disconnected ! {"message":"connect ECONNREFUSED ::1:27017","reason":{"type":"Unknown","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15}}
+
+error [Thu May 05 2022 15:56:05 GMT+0700 (Western Indonesia Time)]  Database disconnected ! {"message":"connect ECONNREFUSED ::1:27017","reason":{"type":"Unknown","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15}}
+
+error [Thu May 05 2022 15:59:46 GMT+0700 (Western Indonesia Time)]  Database disconnected ! {"message":"connect ECONNREFUSED ::1:27017","reason":{"type":"Unknown","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15}}
+
+error [Thu May 05 2022 16:00:28 GMT+0700 (Western Indonesia Time)]  Database disconnected ! {"message":"connect ECONNREFUSED ::1:27017","reason":{"type":"Unknown","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15}}
+
+info [Thu May 05 2022 16:11:43 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 16:12:04 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 16:13:04 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 16:13:38 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 16:15:34 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 16:18:31 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 16:19:42 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 16:19:49 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 16:19:51 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 16:20:40 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 16:22:11 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 16:26:47 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 16:28:33 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 16:28:57 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 16:30:08 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 16:32:13 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 16:32:52 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 16:37:21 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 16:40:14 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 16:40:50 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 16:41:01 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 16:58:09 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:00:25 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:01:00 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:03:13 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:03:43 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:04:08 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:05:37 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:05:41 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:06:29 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:06:45 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:07:51 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:08:12 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:08:45 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:09:30 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:09:50 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:10:15 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:10:55 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:11:17 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:13:11 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:13:20 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:14:00 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:15:26 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:16:06 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:18:34 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:21:06 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:21:32 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:22:14 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:22:55 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:23:12 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:23:21 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:23:39 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:24:02 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:25:13 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:25:32 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:25:35 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:27:04 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:27:19 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:27:32 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:28:32 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:29:00 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:29:34 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:29:58 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:30:43 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:31:54 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:32:43 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:32:49 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:33:18 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:33:44 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:34:05 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:34:27 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:34:43 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:37:35 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:37:54 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:38:02 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:38:23 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 17:38:44 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 18:18:27 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 18:18:55 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 19:42:24 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
+
+info [Thu May 05 2022 19:42:59 GMT+0700 (Western Indonesia Time)]  Database connected ! undefined
