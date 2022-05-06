@@ -23,7 +23,7 @@ const log = {
       const filename: string = logger['channel'][name]['filename']
       const path: string = logger['channel'][name]['path']
       const createLog = Logger.createLogger(`${__dirname}/../storage/logs/${path + filename}`)
-      createLog[level](message, util.format(extras))
+      createLog[level](message, extras? util.format(extras) : '')
     }
   }
 }

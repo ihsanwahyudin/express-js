@@ -1,10 +1,15 @@
 import express from "express"
 import authRoute from "./auth.route"
 import articleRoute from "./article.route"
+import homeRoute from "./home.route"
 
 const router = express.Router()
 
 const defaultRoutes = [
+  {
+    path: '/',
+    route: homeRoute
+  },
   {
     path: '/auth',
     route: authRoute
