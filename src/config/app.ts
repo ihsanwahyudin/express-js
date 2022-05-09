@@ -1,7 +1,7 @@
 const app = {
   env: "development",
-  host: "localhost",
-  port: 4500
+  host: process.env.APP_HOST || "localhost",
+  port: process.env.APP_PORT || 3000
 }
 
 export default app

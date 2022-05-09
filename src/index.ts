@@ -6,7 +6,7 @@ import log from "./logger"
 
 let server: any
 const host: string = config.host
-const port: number = config.port
+const port: number|string = config.port
 connect().then((_value: typeof mongoose) => {
   server = app.listen(port,() => {
     log.channel("application", "info", `Server is running at http://${host}:${port}`)

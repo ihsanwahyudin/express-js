@@ -1,0 +1,30 @@
+version: '3.8'
+services:
+  backend:
+    build: 
+      context: .
+    networks:
+      - dbnetwork
+    ports:
+      - "3001:3001"
+    environment:
+      - MONGODB_URI=mongodb://example-mongo-1
+      - MONGODB_DATABASE=rest-api
+      - MONGODB_PORT=27017
+      - APP_PORT=3001
+      - APP_HOST=localhost
+  mongo:
+    image: mongo:latest
+    networks:
+      - dbnetwork
+    ports:
+      - "27018:27017"
+    volumes:
+      - rest-api:/data/db
+volumes:
+  rest-api:
+    driver: local
+
+networks:
+  dbnetwork:
+    driver: bridge
